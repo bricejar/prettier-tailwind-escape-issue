@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint example.tsx"
+    "lint": "eslint example.tsx",
+    "pretty": "prettier example.tsx"
   },
   "author": "",
   "license": "MIT",
