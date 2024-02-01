@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint example.tsx",
-    "pretty": "prettier example.tsx"
+    "pretty": "prettier example.tsx --write"
   },
   "author": "",
   "license": "MIT",
